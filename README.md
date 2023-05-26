@@ -7,3 +7,5 @@ print yes good very
 
 lens api chai tetsi
 #添加地址
+eth ="swap"
+tset -nft fs i
